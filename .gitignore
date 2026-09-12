@@ -1,0 +1,21 @@
+# Ambientes Virtuais
+.venv/
+venv/
+env/
+
+# Pastas de Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos do PyCharm
+.idea/
+
+# Senhas e Variáveis de Ambiente
+.env
+
+# Perfil do WhatsApp (CRÍTICO NÃO SUBIR ISSO)
+whatsapp_chrome_profile/
+
+# Relatórios em Excel/CSV (Opcional, para não pesar o repositório)
+*.xlsx
+*.csv
